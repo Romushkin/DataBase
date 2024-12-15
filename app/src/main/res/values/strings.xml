@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">База данных</string>
+    <string name="start">Начать</string>
+    <string name="exit">Exit</string>
+    <string name="name">Введите имя</string>
+    <string name="phone">Введите телефон</string>
+    <string name="saveData">Сохранить данные</string>
+    <string name="getData">Получить данные</string>
+    <string name="removeData">Удалить данные</string>
+    <string name="name_tv">Имя</string>
+    <string name="role_rv">Должность</string>
+    <string name="phone_tv">Телефон</string>
+</resources>
